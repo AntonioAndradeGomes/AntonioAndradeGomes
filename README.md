@@ -1,6 +1,8 @@
-<h2 align = "center">Olá, me chamo Antonio Andrade! 🖐🏽</h2>
+<h2  align  =  "center">Olá, me chamo Antonio Andrade! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h2>
+<p  align  =  "center">Me divirto programando e entregando soluções.</p>
 
-<p align = "center">Me divirto programando e entregando soluções.</p>
+## Você pode me encontrar em:
+[![Gmail Badge](https://img.shields.io/badge/-gomesmax1997@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gomesmax1997@gmail.com)](mailto:gomesmax1997@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Antonio%20Andrade-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-andrade-02306a17b/)](https://www.linkedin.com/in/antonio-andrade-02306a17b/) [![Mail Badge](https://img.shields.io/badge/-@antonioandrade27-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/antonioandrade27)
 
 
 <!--
