@@ -4,9 +4,9 @@
 
 ### Você pode me encontrar em:
 
-[ <img align="left" alt="AntonioAndradeGomes | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gomesmax1997@gmail.com" />][gmail]
+[<img align="left" alt="AntonioAndradeGomes | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gomesmax1997@gmail.com" />][gmail]
 
-[ <img align="left" alt="antonioandrade27 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
+[<img align="left" alt="antonioandrade27 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
 <!--
 **AntonioAndradeGomes/AntonioAndradeGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
